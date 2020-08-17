@@ -5,7 +5,7 @@ You can check more about the nanodegree program out here: https://www.udacity.co
 Here you can take a look at all my exercise notebooks made throughout the nanodegree courses.
 Also, you can have the list of the projects developed throughout this course down below.
 
-# Courses Projects
+# Course Projects
 1. Data Modeling Course
 - Project 1: Data Modeling with Postgres: Sparkify song play logs ETL process
 - Project 2: Data Modeling with Apache Cassandra: Sparkify song play logs ETL process
